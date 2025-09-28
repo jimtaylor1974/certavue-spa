@@ -1,2 +1,0 @@
-import{d as p,b as i,l as d,h as m}from"./index-CdmDVAN5.js";const y=(a,s,t,n)=>{const e=new URLSearchParams;e.append("page",String(a)),e.append("perPage",String(s)),t&&e.append("search",t);const r=`${p}/api/teams?${e.toString()}`,u=["teams",{page:a,perPage:s,search:t}],o=i();return d({queryKey:u,queryFn:async()=>{const c=await o(r);return m(c)},...n})};export{y as u};
-//# sourceMappingURL=useGetPagedTeams-DW5qansc.js.map

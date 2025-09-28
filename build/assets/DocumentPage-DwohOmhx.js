@@ -1,0 +1,2 @@
+import{v as s,j as t}from"./index-kwN8UPoG.js";import{R as e}from"./RenderMarkdownDocument-DPZABeHh.js";import"./CardBody-DxL1EV3t.js";import"./ListGroupItem-DctkbJNp.js";import"./folder-up-CBVdd0PI.js";const i=()=>{const{"*":a}=s(),o=a||"";return t.jsxs(t.Fragment,{children:[t.jsx("div",{className:"dashboard-header-controls",children:t.jsx("h1",{className:"dashboard-title",children:"Documentation"})}),t.jsx(e,{documentGroup:"docs",documentPath:o,basePath:"/documents/"})]})};export{i as default};
+//# sourceMappingURL=DocumentPage-DwohOmhx.js.map

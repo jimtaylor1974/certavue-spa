@@ -1,2 +1,0 @@
-import{be as a}from"./index-CdmDVAN5.js";function l(e){if(e===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}function i(e,n){for(var t=0;t<n.length;t++){var r=n[t];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(e,a(r.key),r)}}function o(e,n,t){return n&&i(e.prototype,n),t&&i(e,t),Object.defineProperty(e,"prototype",{writable:!1}),e}export{l as _,o as a};
-//# sourceMappingURL=createClass-Ch9GRMVw.js.map

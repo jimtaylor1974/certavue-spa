@@ -1,0 +1,2 @@
+import{j as e,I as k}from"./index-kwN8UPoG.js";import{F as u,L as x}from"./Label-DetdrR8a.js";const j=({options:a,label:n,selectedItems:h,setSelectedItems:t})=>{const o=(c,r)=>{c.currentTarget.checked?t([r,...h]):t(h.filter(s=>s!==r))};return e.jsx(e.Fragment,{children:a.map((c,r)=>e.jsxs(u,{check:!0,children:[e.jsx(k,{type:"checkbox",id:`checkbox-${r}`,checked:h.includes(c),onChange:s=>o(s,c)}),e.jsx(x,{check:!0,for:`checkbox-${r}`,children:typeof n=="function"?n(c):String(c)})]},`Check_${r}`))})};export{j as C};
+//# sourceMappingURL=CheckboxList-BTq97xcj.js.map
