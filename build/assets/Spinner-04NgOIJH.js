@@ -1,2 +1,0 @@
-import{j as s}from"./index-C-RVz6Ax.js";const i=({message:e})=>s.jsxs("div",{className:"w-100 d-flex justify-content-center align-items-center p-5",children:[s.jsx("div",{className:"spinner-border text-info",role:"status",children:s.jsx("span",{className:"visually-hidden",children:"Loading..."})}),e&&s.jsx("div",{className:"ms-3",children:e})]});export{i as S};
-//# sourceMappingURL=Spinner-04NgOIJH.js.map

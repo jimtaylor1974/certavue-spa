@@ -1,0 +1,2 @@
+import{d as i,b as d,l as y,h}from"./index-CdmDVAN5.js";const m=(s,t,n,a,r)=>{const e=new URLSearchParams;e.append("page",String(s)),e.append("perPage",String(t)),n&&e.append("search",n),a&&e.append("roleFilter",a);const o=`${i}/api/persons?${e.toString()}`,p=["persons",{page:s,perPage:t,search:n}],u=d();return y({queryKey:p,queryFn:async()=>{const c=await u(o);return h(c)},...r})};export{m as u};
+//# sourceMappingURL=useGetPagedPersons-CK42JhzR.js.map
