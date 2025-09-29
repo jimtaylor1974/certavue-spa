@@ -1,2 +1,0 @@
-import{j as e,e as s,C as t}from"./index-Bl7Wb9NM.js";import{R as a,C as r}from"./Col-sHY0dGyA.js";const o=()=>e.jsx(s,{className:"mt-5 mb-5",children:e.jsx(a,{className:"justify-content-center",children:e.jsx(r,{xs:12,md:10,lg:8,children:e.jsxs("div",{className:"text-center mb-4",children:[e.jsx(t,{}),e.jsx("h2",{className:"mt-3",children:"Company Registration Completed"})]})})})});export{o as default};
-//# sourceMappingURL=CompanyRegistrationCompletedPage-C-fnQlND.js.map

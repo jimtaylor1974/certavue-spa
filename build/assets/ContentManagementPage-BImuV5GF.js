@@ -1,0 +1,2 @@
+import{j as e,e as a,O as s}from"./index-C1gMn5ii.js";import{R as n,C as t}from"./Col-CyLh7hzm.js";const i=()=>e.jsxs(a,{fluid:!0,className:"mt-4",children:[e.jsx(n,{children:e.jsxs(t,{children:[e.jsx("h1",{children:"Content Management"}),e.jsx("p",{className:"text-muted",children:"Manage content files for your application. Upload, delete, and organize files that can be used in markdown or HTML."})]})}),e.jsx(n,{children:e.jsx(t,{children:e.jsx(s,{})})})]});export{i as default};
+//# sourceMappingURL=ContentManagementPage-BImuV5GF.js.map

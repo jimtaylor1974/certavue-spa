@@ -1,3 +1,0 @@
-import{_ as e,Y as s,as as n,Z as i,at as p}from"./index-Bl7Wb9NM.js";import{p as g}from"./gitGraph-YCYPL57B-CvetqW3K.js";import"./_baseUniq-BOsOjzBh.js";import"./_basePickBy-g5M3581U.js";import"./clone-JGAwoqGv.js";var v={parse:e(async r=>{const a=await g("info",r);s.debug(a)},"parse")},d={version:p.version},m=e(()=>d.version,"getVersion"),c={getVersion:m},f=e((r,a,o)=>{s.debug(`rendering info diagram
-`+r);const t=n(a);i(t,100,400,!0),t.append("g").append("text").attr("x",100).attr("y",40).attr("class","version").attr("font-size",32).style("text-anchor","middle").text(`v${o}`)},"draw"),l={draw:f},S={parser:v,db:c,renderer:l};export{S as diagram};
-//# sourceMappingURL=infoDiagram-SDLB2J7W-3xQ4oFzA.js.map
