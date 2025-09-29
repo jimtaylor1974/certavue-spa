@@ -1,0 +1,2 @@
+import{b as u,z as c,c as i,d,h as l}from"./index-Bl7Wb9NM.js";const h=t=>{const n=u(),s=c();return i({mutationFn:async({path:a,file:o})=>{const e=new FormData;e.append("file",o);const r=await n(`${d}/api/sys/contents/${a}`,{method:"POST",body:e});return l(r)},onSuccess:()=>{s.invalidateQueries({queryKey:["contents"]})},...t})};export{h as u};
+//# sourceMappingURL=useUploadContentFile-DlybbBA6.js.map

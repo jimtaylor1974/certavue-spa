@@ -1,0 +1,2 @@
+import{b as r,l as o,d as t,h as a}from"./index-Bl7Wb9NM.js";const i=e=>{const n=r();return o({queryKey:["baseWorkingHours"],queryFn:async()=>{const s=await n(`${t}/api/working-hours/base`);return a(s)},...e})},h=e=>{const n=r();return o({queryKey:["companyNonWorkingDays"],queryFn:async()=>{const s=await n(`${t}/api/working-hours/company-non-working-days`);return a(s)},...e})};export{h as a,i as u};
+//# sourceMappingURL=useGetCompanyNonWorkingDays-Df2pa82B.js.map

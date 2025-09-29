@@ -1,0 +1,2 @@
+import{v as o,j as s}from"./index-Bl7Wb9NM.js";import{R as e}from"./RenderMarkdownDocument-D_kYaVd2.js";import"./CardBody-CJUybPPm.js";import"./ListGroupItem-GfMzGrF7.js";import"./folder-up-C9tJmIQa.js";const i=()=>{const{"*":t}=o(),a=t||"";return s.jsxs(s.Fragment,{children:[s.jsx("div",{className:"dashboard-header-controls",children:s.jsx("h1",{className:"dashboard-title",children:"System Admin Documentation"})}),s.jsx(e,{documentGroup:"sys",documentPath:a,basePath:"/sysdocs/"})]})};export{i as default};
+//# sourceMappingURL=DocumentSysAdminPage-CGBBvWX_.js.map
